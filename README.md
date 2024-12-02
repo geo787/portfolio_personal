@@ -16,5 +16,6 @@ An implementation of the popular game Flappy Bird, built in C# using Windows For
 * .NET Framework 4.8
 
 ## Running instructions
-1. **Clone the repository:**
-* bash code: FlappyBird.sln
+   FlappyBird.sln
+
+✅ Implemented game pause system.

@@ -1,19 +1,20 @@
 # portfolio_personal
-# Flappy Bird - Joc clasic reimaginat în C#
 
-O implementare a popularului joc Flappy Bird, creată în C# folosind Windows Forms.
+# Flappy Bird - Classic game reimagined in C#
 
-## Caracteristici
-* Joc clasic cu țevi în mișcare
-* Sistem de punctaj
-* Grafică simplă și intuitivă
-* Sunet de fundal captivant
+An implementation of the popular game Flappy Bird, built in C# using Windows Forms.
 
-## Tehnologii utilizate
-* C#
+## Features
+* Classic game with moving pipes
+* Scoring system
+* Simple and intuitive graphics
+* Engaging background sound
+
+## Technologies used
+*C#
 * Windows Forms
 * .NET Framework 4.8
 
-## Instrucțiuni de rulare
-1. **Clonezi repository-ul:**
+## Running instructions
+1. **Clone the repository:**
 * bash code: FlappyBird.sln
